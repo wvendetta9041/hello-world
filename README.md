@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+It just show how to work with new branches
